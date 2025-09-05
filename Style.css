@@ -1,19 +1,19 @@
 body {
-  color: white;
+  color: rgb(0, 0, 0);
   background: black;
   margin: 0px;
   font-family: "Chakra Petch", sans-serif;
 }
 
 header {
-  border-bottom: solid 2px rgb(42, 122, 228);
+  border-bottom: solid 2px rgb(43, 206, 218);
   padding: 20px;
   font-size: 32px;
-  color: rgb(42, 122, 228);
+  color: rgb(86, 201, 255);
 }
 
 section {
-  background: rgb(184, 156, 213);
+  background: rgb(0, 0, 0);
   padding-bottom: 80px;
   padding-top: 80px;
   display: flex;
