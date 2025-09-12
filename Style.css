@@ -6,10 +6,10 @@ body {
 }
 
 header {
-  border-bottom: solid 2px rgb(43, 206, 218);
+  border-bottom: solid 2px rgb(14, 239, 255);
   padding: 20px;
   font-size: 32px;
-  color: rgb(86, 201, 255);
+  color: rgb(0, 255, 255);
 }
 
 section {
